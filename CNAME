@@ -1,1 +1,2 @@
-LafourchettedeRoze.io
+$ dig vkanateLafourchettedeRoze.com +nostats +nocomments +nocmd
+    > vkanateLafourchettedeRoze.com              3592    IN      CNAME vkanateLafourchettedeRoze.com  
